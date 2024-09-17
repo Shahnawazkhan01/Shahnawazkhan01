@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahnawaz khan</h1>
-
-
-# 👋 Welcome to My GitHub Profile!
+<h1 align="center">Welcome to My GitHub Profile!</h1>
 
 Hello! I'm a passionate Software Developer with expertise in a range of technologies. Feel free to explore my repositories and projects to see what I've been working on.
 
@@ -31,15 +29,11 @@ Hello! I'm a passionate Software Developer with expertise in a range of technolo
 - **IDEs**: Visual Studio Code 
 - **Operating Systems**: Windows
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true&hide=prs&theme=radical)
-
 ## 📫 Get in Touch
 
 - **Email**: [kshahnawaz0032@gmail.com](mailto:kshahnawaz0032@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **X** : [@yourusername](https://twitter.com/yourusername)
+- **LinkedIn**: [Shahnawazkhan07](http://linkedin.com/in/Shahnawazkhan07)
+- **X** : [@heysanukhan](https://twitter.com/heysanukhan)
 
 ---
 
